@@ -1,0 +1,3 @@
+export TEMPEST_TEST_STATIONID=your_weatherflow_station_id
+export TEMPEST_TEST_TOKEN=your_weatherflow_token
+
